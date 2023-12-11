@@ -1,7 +1,4 @@
 <h1 align="center">
-  <br>
-  <img src="https://djangosocial-production.up.railway.app/static/images/logo.png" alt="Java Test" width="200">
-  <br>
   Django Social | by Devon Greenlaw
   <br>
 </h1>
